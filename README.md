@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Pouran! 👋
 
-<!--
-**Pouran-ai/Pouran-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Python developer passionate a bout backend development and building real-world applications.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Language:** Python
+- **Frameworks:** (Soon: FastAPI)
+- **Tools:** Git, GitHub, VS code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Projects
+- [sound Chirp Project](https://github.com/Pouran-ai/Sound-Chirp-Project) - Audio generation and streaming using Python.
+- [Library Management System](https://github.com/Pouran-ai/library-management-system) -A Python-based library management system.
+- [Rock Paper Scissors](https://github.com/Pouran-ai/rock-paper-scissors) A Simple game.
+
+
