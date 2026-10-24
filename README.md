@@ -11,6 +11,6 @@ I'm Python developer passionate a bout backend development and building real-wor
 - [sound Chirp Project](https://github.com/Pouran-ai/Sound-Chirp-Project) - Audio generation and streaming using Python.
 - [Library Management System](https://github.com/Pouran-ai/library-management-system) -A Python-based library management system.
 - [Rock Paper Scissors](https://github.com/Pouran-ai/rock-paper-scissors) A Simple game.
-- [AI Streaming Chat API](https://github.com/Pouran-ai/ai-streaming-chat-api) - AFastAPI backend for real-time AI chat with streaming support.
+- [AI Streaming Chat API](https://github.com/Pouran-ai/ai-streaming-chat-api) - A FastAPI backend for real-time AI chat with streaming support.
 
 
