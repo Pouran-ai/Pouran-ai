@@ -12,5 +12,6 @@ I'm Python developer passionate a bout backend development and building real-wor
 - [Library Management System](https://github.com/Pouran-ai/library-management-system) -A Python-based library management system.
 - [Rock Paper Scissors](https://github.com/Pouran-ai/rock-paper-scissors) A Simple game.
 - [AI Streaming Chat API](https://github.com/Pouran-ai/ai-streaming-chat-api) - A FastAPI backend for real-time AI chat with streaming support.
+- [FastAPI library](https://github.com/Pouran-ai/fastapi-liberary) - A RESTful API for managing  a library , built with FastAPI.
 
 
